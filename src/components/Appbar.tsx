@@ -106,7 +106,7 @@ function AppBarHeader() {
             }}>
             <ToggleMode sx={{ height: 50, width: 50 }} />
             <IconButton sx={{ p: 0 }} onClick={() => navigate('/')}>
-              <Avatar sx={{ height: 50, width: 50 }} alt='Tuan' src='src/avatar.jpg' />
+              <Avatar sx={{ height: 50, width: 50 }} alt='Tuan' src='/avatar.jpg' />
             </IconButton>
           </Stack>
         </Toolbar>
