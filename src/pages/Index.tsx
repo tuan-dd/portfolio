@@ -1,7 +1,5 @@
-import React from 'react';
 import AppBarHeader from '../components/Appbar';
-import { Container, Stack } from '@mui/material';
-import { ToggleMode } from '../context/toogle.provider';
+import { Stack } from '@mui/material';
 import { Outlet } from 'react-router-dom';
 import Footer from './Footer';
 function Index() {

@@ -1,4 +1,3 @@
-import React from 'react';
 import { Avatar, Box, Chip, Stack, Typography, IconButton, Link } from '@mui/material';
 import GitHubIcon from '@mui/icons-material/GitHub';
 import EmailIcon from '@mui/icons-material/Email';

@@ -72,6 +72,7 @@ function Project() {
 
   React.useEffect(() => {
     getData();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   // console.log(data);
