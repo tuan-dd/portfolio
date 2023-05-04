@@ -60,7 +60,7 @@ function Homepage() {
         <Avatar
           sx={{ height: 100, width: 100, m: 'auto', mb: 4 }}
           alt='Tuan'
-          src='src/avatar.jpg'
+          src='/avatar.jpg'
         />
         <Typography
           sx={{
