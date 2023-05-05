@@ -4,7 +4,7 @@ function About() {
   return (
     <>
       <Stack padding={10} spacing={4} justifyContent='center' alignItems='center'>
-        <Avatar sx={{ height: 200, width: 200 }} alt='Tuan' src='src/avatar.jpg' />
+        <Avatar sx={{ height: 200, width: 200 }} alt='Tuan' src='/avatar.jpg' />
         <Typography variant='body1' color='primary.main'>
           Hello and welcome! My name is Huynh Van Anh Tuan, and I am a full-stack
           developer with a passion for coding and a focus on backend development. While I
